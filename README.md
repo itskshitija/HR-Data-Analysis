@@ -1,1 +1,1 @@
-# HR-Attrition-Prediction
+# HR Attrition Prediction
