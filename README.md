@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
+</a>
+
 # **HR Data Analytics Dashboard**
 
 ## `Power BI 📊` `Data Analysis 💼` `Human Resources Insights 👥`
@@ -6,7 +10,7 @@
 - [Project Overview](#project-overview)
 - [Dashboard Preview](#dashboard-preview)
 - [Data Summary](#data-summary)
-- [Dashboard Features](#dashboard-features)
+- [KPIs Tracked](#kpis-tracked)
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
@@ -18,7 +22,8 @@ The HR Data Analytics Dashboard project analyzes employee data in depth to deriv
 ---
 
 ## **Dashboard Preview**
-![dashboard](https://github.com/user-attachments/assets/9688ebb7-cdec-4408-89ad-370bb38a222b)
+
+![HrDataAnalysis](https://github.com/user-attachments/assets/5d67dc9d-e75f-4174-a8df-7c713276e156)
 
 
 ## **Data Summary**
@@ -65,30 +70,18 @@ The dataset used in this project contains comprehensive employee data. Below is 
 
 ---
 
-## **Dashboard Features**
-
-### **Key Visualizations**
-1. **Attrition Analysis:** Explore trends and patterns in employee turnover.
-2. **Salary Distribution:** Analyze salary variations across departments and job roles.
-3. **Job Satisfaction Insights:** Understand employee satisfaction levels and factors influencing them.
-4. **Gender Representation:** Breakdown of gender distribution across departments.
-5. **Experience vs. Performance:** Correlation between experience and performance ratings.
-
-### **KPIs Tracked**
-- **Total Employees**  
+## **KPIs Tracked**
+- **Total Employees**
+- **Attrition count** 
 - **Attrition Rate (%)**  
-- **Average Salary by Department**  
-- **Job Satisfaction Levels**  
-- **Performance Distribution**  
+ - **Active Employees** 
+- **Average Age**
+- **Retention Count**
+- **Retention Rate**  
 
 ---
 
 ## **Key Insights**
-1. Departments with higher attrition rates often have lower job satisfaction scores.
-2. Employees with advanced education levels (Master's and Doctorates) are concentrated in managerial and technical roles.
-3. Salary discrepancies exist between departments, with IT and Finance employees earning the highest on average.
-4. Gender representation shows under-representation of women in leadership positions.
-5. Performance ratings correlate positively with experience, up to a certain threshold.
 
 ---
 
@@ -98,27 +91,19 @@ The HR Data Analytics Dashboard empowers organizations to:
 - Improve salary equity across departments.
 - Enhance employee satisfaction by addressing department-specific issues.
 - Promote data-driven strategies for talent acquisition and retention.
-
----
-
-## **Author Information**
-
-### 👤 Kshitija Chilbule
-
-#### 📞 **Contact:**
-- **Phone:** 7620424864  
-- **Email:** [kshitijachilbule5@gmail.com](mailto:kshitijachilbule5@gmail.com)  
-
-#### 🌐 **Online Profiles:**
-- **GitHub:** [@itskshitija](https://github.com/itskshitija)  
-- **LinkedIn:** [Kshitija Chilbule](https://www.linkedin.com/in/kshitija-chilbule-b98515309/)  
-- **Portfolio:** [Visit Here](https://itskshitija.github.io/My-Portfolio/)  
-
+  
 ---
 
 ### **Explore the Dashboard**
-For a detailed walkthrough of the HR Data Analytics Dashboard, visit the repository files and documentation.
+For a detailed walkthrough of the HR Data Analytics Dashboard, you can visit the repository files and documentation.
 
 ---
 
 Feel free to reach out for collaboration or queries related to this project!
+
+# Connect🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Portfolio:</b> https://itskshitija.github.io/My-Portfolio/
+- 📖 <b>Medium:</b> https://medium.com/@kshitijachilbule2
