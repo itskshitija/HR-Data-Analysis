@@ -14,12 +14,10 @@
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
----
 
 ## **Project Overview**
 The HR Data Analytics Dashboard project analyzes employee data in depth to derive actionable insights for the Human Resources department. It leverages Power BI to visualize critical HR metrics and KPIs, enabling HR teams to make data-driven decisions to improve workforce management, employee satisfaction, and organizational growth.
 
----
 
 ## **Dashboard Preview**
 
@@ -68,7 +66,7 @@ The dataset used in this project contains comprehensive employee data. Below is 
 | **Percent Salary Hike**         | Percentage increase in salary.                   | Integer                                     |
 | **Years Since Last Promotion**  | Number of years since the last promotion.         | Integer                                     |
 
----
+
 
 ## **KPIs Tracked**
 - **Total Employees**
@@ -79,7 +77,6 @@ The dataset used in this project contains comprehensive employee data. Below is 
 - **Retention Count**
 - **Retention Rate**  
 
----
 
 ## **Key Insights**
 **General Overview**
@@ -119,7 +116,6 @@ The dataset used in this project contains comprehensive employee data. Below is 
 1. **High Satisfaction:** Employees in Managerial and Research Director roles exhibit the highest job satisfaction levels.
 2. **Low Satisfaction:** Employees in Sales Representative and Lab Technician roles have lower job satisfaction ratings, indicating areas requiring attention.
 
----
 
 ## **Conclusion**
 The HR Data Analytics Dashboard empowers organizations to:
@@ -127,15 +123,7 @@ The HR Data Analytics Dashboard empowers organizations to:
 - Improve salary equity across departments.
 - Enhance employee satisfaction by addressing department-specific issues.
 - Promote data-driven strategies for talent acquisition and retention.
-  
----
 
-### **Explore the Dashboard**
-For a detailed walkthrough of the HR Data Analytics Dashboard, you can visit the repository files and documentation.
-
----
-
-Feel free to reach out for collaboration or queries related to this project!
 
 # Connect🤝
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
