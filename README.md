@@ -82,6 +82,42 @@ The dataset used in this project contains comprehensive employee data. Below is 
 ---
 
 ## **Key Insights**
+**General Overview**
+1. **Total Workforce:** The organization has 1,470 employees, with 1,233 active employees and 237 employees who have left, leading to an attrition rate of 16%.
+2. **Retention Rate:** The company retains 84% of its employees, indicating relatively stable employee engagement.
+3. **Average Age:** The workforce's average age is 37 years, suggesting a predominantly mid-career employee base.
+
+**Departmental Analysis**
+1. **Attrition by Department:** The R&D department has the highest attrition count, followed by Sales, while HR has minimal attrition. This could indicate stress or dissatisfaction in R&D and Sales.
+2. **Performance Ratings by Department:**
+   - R&D leads with 65.55% of employees rated high in performance.
+   - Sales follows with 30.18%, while HR has the lowest performance ratings.
+  
+**Education and Skills**
+1. **Educational Qualification:** The majority of employees have a Bachelor's Degree (473), followed by those with a Master's Degree (340). Employees with Doctoral Degrees (43) represent a small proportion.
+2. **Educational Field:**
+   - Most employees are from the Life Sciences (41.93%) and Medical (32.52%) fields.
+   - Other fields, such as Marketing, Technical Degrees, and Human Resources, contribute smaller percentages.
+
+**Compensation**
+1. **Monthly Income by Job Role:**
+   - Managers earn the highest average monthly income.
+   - Roles like Sales Representative and Lab Technicians are on the lower end of the income scale.
+
+2. **Job Roles with High Dissatisfaction:**
+   - Employees in Sales Executive roles show higher dissatisfaction, as indicated by the job satisfaction ratings.
+  
+**Age and Gender Distribution**
+1. **Age Band Analysis:**
+   - Most employees fall into the 35-44 and 45-54 age groups.
+   - Employees under 25 and over 55 constitute the smallest portions of the workforce.
+2. **Gender Representation:**
+   - In the 35-44 and 45-54 age groups, both genders are well-represented.
+   - Under 25 and over 55 age groups have relatively fewer female employees.
+
+**Job Satisfaction**
+1. **High Satisfaction:** Employees in Managerial and Research Director roles exhibit the highest job satisfaction levels.
+2. **Low Satisfaction:** Employees in Sales Representative and Lab Technician roles have lower job satisfaction ratings, indicating areas requiring attention.
 
 ---
 
