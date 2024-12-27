@@ -11,7 +11,6 @@
 ### **Table of Contents**
 - [Project Overview](#project-overview)
 - [Dashboard Preview](#dashboard-preview)
-- [KPIs Tracked](#kpis-tracked)
 
 ## **Project Overview**
 The HR Data Analytics Dashboard project analyzes employee data in depth to derive actionable insights for the Human Resources department. It leverages Power BI to visualize critical HR metrics and KPIs, enabling HR teams to make data-driven decisions to improve workforce management, employee satisfaction, and organizational growth.
@@ -21,16 +20,7 @@ The HR Data Analytics Dashboard project analyzes employee data in depth to deriv
 
 ![HrDataAnalysis](https://github.com/user-attachments/assets/5d67dc9d-e75f-4174-a8df-7c713276e156)
 
-## **KPIs Tracked**
-- **Total Employees**
-- **Attrition count** 
-- **Attrition Rate (%)**  
- - **Active Employees** 
-- **Average Age**
-- **Retention Count**
-- **Retention Rate**  
 
-# Connect🤝
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
