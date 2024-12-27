@@ -4,6 +4,8 @@
 
 # For a Comprehensive overview and detailed insights, please read my Medium Article [Here](https://medium.com/@kshitijachilbule2/predicting-employee-behavior-hr-analytics-8619586ea867)
 
+# Dashboard [Here](https://github.com/itskshitija/HR-Data-Analysis/blob/main/HR%20Data%20Analytics%20dashboard.pbix)
+
 # **HR Data Analytics Dashboard**
 
 ## `Power BI 📊` `Data Analysis 💼` `Human Resources Insights 👥`
